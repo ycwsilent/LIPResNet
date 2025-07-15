@@ -1,13 +1,13 @@
 # LIPResNet
 
-Learnable Illumination Prior based  Residual Network for  Low-light Image Enhancement in Stages
+" "
 
 ---------------------
 
 
 ## Abstract
 
-The core goal of low-light image enhancement is to improve brightness, contrast, and color fidelity, addressing issues such as blurred details and color distortion commonly encountered in low-light environments. Although existing methods have made progress in improving brightness and enhancing details, they are often accompanied by color distortion and increased noise. To address these issues, this paper proposes a Learnable Illumination Prior based  Residual Network (LIPResNet), inspired by the residual network's ability to learn the difference between the input and output. The network aims to gradually enhance the brightness and detail of low-light images by learning the difference between low-light and normal-light images in two stages, ultimately producing improved low-light images. To address the issue of insufficient image brightness, this paper proposes a learnable illumination prior module that can accurately estimate illumination information and effectively compensate for it. Additionally, to ensure a more comprehensive fusion of illumination and detail information, this paper proposes an illumination-guided convolutional attention module that enables effective integration of both types of information. Experimental results on 15 datasets, including LOL, LSRW, and FiveK, demonstrate that LIPResNet effectively reduces noise and color distortion while enhancing image quality. Moreover, it outperforms most current mainstream methods across the majority of datasets.
+
 
 
 
