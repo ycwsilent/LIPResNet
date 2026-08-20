@@ -13,6 +13,10 @@
 
 ## Result
 
+Figure 1 illustrates the PSNR‑SSIM bubble comparison with existing SOTA approaches on six low‑light benchmarks (SDSD‑in, SDSD‑out, SMID, LOL‑v2‑re, LOL‑v2‑syn, LOL‑v1). Our approach obtains leading metrics on most datasets.
+
+![Figure 1: Quantitative comparison on benchmark datasets.](figure/Figure_1.jpg)
+
 - Our results on the reference dataset can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1PIffsfYLCAC6jQqSk1f4Ig?pwd=yIPR 
 )(code:yIPR) or[ Google Cloud](https://drive.google.com/drive/folders/1eIgScOhgWfjtNaGzUC91PKnTmSmH4QFF?usp=drive_link).
 
